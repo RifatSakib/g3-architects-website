@@ -149,4 +149,8 @@ main > section{
   .teams{
     flex-direction: column;
   }
+  .four-features{
+    margin: 50px auto;
+  }
+
 }
