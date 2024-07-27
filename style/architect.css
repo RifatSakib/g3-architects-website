@@ -137,4 +137,8 @@ main > section{
           grid-template-columns: repeat(1,1fr);
         }
 
+        .four-features{
+          margin-left: 20px;
+        }
+
 }
